@@ -1,0 +1,69 @@
+Spread 10 hours of training over the main topics:
+
+0. Basics                                                              #
+1. In and Export                                                       #
+2. Watson APIs                                                         #
+3. Visualization                                                       #
+4. Spark                                                               #
+5. Machine Learning                                                    #
+6. Training - Deep Learning                                            #
+                    
+   
+Per topic, mark your top 3 interest as 1,2,3:   
+                    
+0. Basics\0. Basics 0. Jupyter notebook                                #
+0. Basics\0. Basics 1. Python                                          #
+0. Basics\0. Basics 2. Numpy                                           #
+0. Basics\0. Basics 3. Pandas                                          #
+0. Basics\0. Basics 4. Jupyter notebook magics, shell and R            #
+                                              
+1. In and Export\1. import and export 0. Object Storage                #
+1. In and Export\1. import and export 1. Download and upload           #
+1. In and Export\1. import and export 2. DashDB                        #
+1. In and Export\1. import and export 3. Cloudant                      #
+1. In and Export\1. import and export 4. Twitter                       #
+1. In and Export\1. import and export 5. BigInsights                   #
+                                              
+2. Watson APIs\2. Watson 0. Weather API                                #
+2. Watson APIs\2. Watson 1. Personality Insights                       #
+2. Watson APIs\2. Watson 2. Alchemy News                               #
+2. Watson APIs\2. Watson 3. Alchemy language                           #
+2. Watson APIs\2. Watson 4. Tone analyzer                              #
+2. Watson APIs\2. Watson 5. Natural language classifier                #
+                                         
+3. Visualization\3. Visualization 0. Matplotlib                        #
+3. Visualization\3. Visualization 1. Machine learning techniques       #
+3. Visualization\3. Visualization 2. Pixiedust                         #
+3. Visualization\3. Visualization 3. Bokeh                             #
+                                       
+4. Spark\4. Spark 0. rdd-creation                                      #
+4. Spark\4. Spark 1. rdd-basics                                        #
+4. Spark\4. Spark 2. rdd-sampling                                      #
+4. Spark\4. Spark 3. rdd-set                                           #
+4. Spark\4. Spark 4. rdd-aggregations                                  #
+4. Spark\4. Spark 5. rdd-key-value                                     #
+4. Spark\4. Spark 6. mllib-statistics                                  #
+4. Spark\4. Spark 7. mllib-logit                                       #
+4. Spark\4. Spark 8. mllib-trees                                       #
+4. Spark\4. Spark 9. sql-dataframes                                    #
+                                            
+5. Machine Learning\5. ML 0. Install requirements                      #
+5. Machine Learning\5. ML 1. Introduction                              #
+5. Machine Learning\5. ML 2. Data preparation                          #
+5. Machine Learning\5. ML 3. Scikit Learn interface                    #
+5. Machine Learning\5. ML 4. Bias and variance                         #
+5. Machine Learning\5. ML 5. Model evaluation                          #
+5. Machine Learning\5. ML 6. Ensemble methods                          #
+5. Machine Learning\5. ML 7. Ensemble methods advanced                 #
+5. Machine Learning\5. ML 8. Multi Model Ensembles                     #
+5. Machine Learning\5. ML 9. Time series                               #
+                                            
+6. Training - Deep Learning\6. DL 0. Keras starter kit                 #
+6. Training - Deep Learning\6. DL 1. Fun with activation functions     #
+6. Training - Deep Learning\6. DL 2. Convolutional networks            #
+6. Training - Deep Learning\6. DL 3. Embedding                         #
+6. Training - Deep Learning\6. DL 4. Multi-input models                #
+6. Training - Deep Learning\6. DL 5. Auto encoder                      #
+6. Training - Deep Learning\6. DL 6. Recurrent networks                #
+
+
