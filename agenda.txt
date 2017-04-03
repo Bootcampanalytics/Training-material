@@ -51,19 +51,19 @@ Per topic, mark your top 3 interest as 1,2,3:
 5. Machine Learning\5. ML 1. Introduction                              #
 5. Machine Learning\5. ML 2. Data preparation                          #
 5. Machine Learning\5. ML 3. Scikit Learn interface                    #
-5. Machine Learning\5. ML 4. Bias and variance                         #
+5. Machine Learning\5. ML 4. Bias and variance                         #
 5. Machine Learning\5. ML 5. Model evaluation                          #
 5. Machine Learning\5. ML 6. Ensemble methods                          #
 5. Machine Learning\5. ML 7. Ensemble methods advanced                 #
 5. Machine Learning\5. ML 8. Multi Model Ensembles                     #
 5. Machine Learning\5. ML 9. Time series                               #
                                             
-6. Training - Deep Learning\6. DL 0. Keras starter kit                 #
-6. Training - Deep Learning\6. DL 1. Fun with activation functions     #
-6. Training - Deep Learning\6. DL 2. Convolutional networks            #
-6. Training - Deep Learning\6. DL 3. Embedding                         #
-6. Training - Deep Learning\6. DL 4. Multi-input models                #
-6. Training - Deep Learning\6. DL 5. Auto encoder                      #
-6. Training - Deep Learning\6. DL 6. Recurrent networks                #
+6. Deep Learning\6. DL 0. Keras starter kit                            #
+6. Deep Learning\6. DL 1. Fun with activation functions                #
+6. Deep Learning\6. DL 2. Convolutional networks                       #
+6. Deep Learning\6. DL 3. Embedding                                    #
+6. Deep Learning\6. DL 4. Multi-input models                           #
+6. Deep Learning\6. DL 5. Auto encoder                                 #
+6. Deep Learning\6. DL 6. Recurrent networks                           #
 
 
